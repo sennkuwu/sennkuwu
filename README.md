@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @sennkuwu
-- 👀 I’m interested in all what i want to do.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @sennkuwu
+👀 I’m interested in all what i want to do.
+🌱 I’m currently learning IT.
+💞️ I’m looking to collaborate on ...
+😄 My blog: https://www.zhihu.com/people/wu-da-du-du-95
+
+
+
+
 
 <!---
 sennkuwu/sennkuwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
